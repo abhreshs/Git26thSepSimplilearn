@@ -1,2 +1,4 @@
 New changes to show the demo on difference between the files
 Shortcut to move the file from Untracked to Commited stage
+
+Stashed
